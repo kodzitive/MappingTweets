@@ -7,3 +7,5 @@ Mapping Tweets using RStudio with Shiny,leaflet,twitterR. <br />
 The default latitude/longtitude is Melbourne, default hashtag #stkilda
 
 Anh Nguyen
+
+![alt tag](https://raw.githubusercontent.com/kodzitive/MappingTweets/master/Rstudio%20and%20Shiny%20-%20Mapping%20Tweets.jpg)
