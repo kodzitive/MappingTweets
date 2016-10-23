@@ -1,3 +1,9 @@
+----------------------------------------------------------------
+# MappingTweets Live
+- Live version 23 October 2016
+Available at : [https://kodz.shinyapps.io/mappingTweets/](https://kodz.shinyapps.io/mappingTweets/)
+
+----------------------------------------------------------------
 # MappingTweets
 Mapping Tweets using RStudio with Shiny,leaflet,twitterR. <br />
 1) Open app.R with RStudio <br />
