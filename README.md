@@ -3,7 +3,7 @@ Mapping Tweets using RStudio with Shiny,leaflet,twitterR. <br />
 1) Open app.R with RStudio <br />
 2) Create tokens.txt and save it in the same directory with app.R, format as follows: <br />
 -- <br />
-[Put in your Consumer Key (API Key)] <br />
+> - [Put in your Consumer Key (API Key)] <br />
 [Put in your Consumer Secret (API Secret)] <br />
 [Put in your Access Token] <br />
 [Put in your Access Token Secret] <br />
