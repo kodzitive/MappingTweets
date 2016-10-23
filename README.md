@@ -8,4 +8,8 @@ The default latitude/longtitude is Melbourne, default hashtag #stkilda
 
 Anh Nguyen
 
-![alt tag](https://raw.githubusercontent.com/kodzitive/MappingTweets/master/Rstudio%20and%20Shiny%20-%20Mapping%20Tweets.jpg)
+Result:
+![alt tag](https://raw.githubusercontent.com/kodzitive/MappingTweets/master/Screenshot/MappingTweetsResult.jpg)
+
+Obtain tokens details from Twitter:
+![alt tag](https://raw.githubusercontent.com/kodzitive/MappingTweets/master/Screenshot/ObtainTokensFromTwitter.jpg)
